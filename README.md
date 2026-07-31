@@ -194,4 +194,6 @@ Submits a query to retrieve vector-matched context and generate an answer.
 
   ## 🧪 Screenshots
   <img width="1900" height="852" alt="Screenshot 2026-07-29 191808" src="https://github.com/user-attachments/assets/f81bb570-4b9c-44ab-b842-af8894da1cd6" />
+  <img width="1902" height="852" alt="Screenshot 2026-07-29 191059" src="https://github.com/user-attachments/assets/4fff2d98-f513-411e-9686-26e0b68227bf" />
+
 

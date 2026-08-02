@@ -197,3 +197,5 @@ Submits a query to retrieve vector-matched context and generate an answer.
   <img width="1902" height="852" alt="Screenshot 2026-07-29 191059" src="https://github.com/user-attachments/assets/4fff2d98-f513-411e-9686-26e0b68227bf" />
 
 
+## ⚡ Live Demo
+For Live Demo, Check out my LinkedIn post: https://www.linkedin.com/feed/update/urn:li:activity:7488231451746795520/
